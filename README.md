@@ -44,10 +44,9 @@
 Interested in buying this template or a custom build? Let's connect:
 
 - **Founder:** Tap Technologies
-- **LinkedIn:**[https://www.linkedin.com/company/tap1technologies]
-- **Play Store:** [View our Apps]([https://bit.ly/tapTechnologies])
-- **Email:** [tanishkatechnosolutions@gmail.com]
-
+- **LinkedIn:** [Tap Technologies Official](https://www.linkedin.com/company/tap1technologies)
+- **Play Store:** [Official Portfolio](https://bit.ly/tapTechnologies)
+- **Email:** [tanishkatechnosolutions@gmail.com](mailto:tanishkatechnosolutions@gmail.com)
 ---
 <p align="center">
   *"Building the future of mobile solutions, one tap at a time."* <br>
