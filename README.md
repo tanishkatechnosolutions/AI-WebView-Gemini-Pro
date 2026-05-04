@@ -44,9 +44,9 @@
 Interested in buying this template or a custom build? Let's connect:
 
 - **Founder:** Tap Technologies
-- **LinkedIn:** [Connect on LinkedIn](LINKEDIN_PROFILE_URL)
-- **Play Store:** [View our Apps](PLAYSTORE_URL)
-- **Email:** [Your Professional Email]
+- **LinkedIn:** [Connect on LinkedIn]([https://www.linkedin.com/company/tap1technologies])
+- **Play Store:** [View our Apps]([https://bit.ly/tapTechnologies])
+- **Email:** [tanishkatechnosolutions@gmail.com]
 
 ---
 <p align="center">
