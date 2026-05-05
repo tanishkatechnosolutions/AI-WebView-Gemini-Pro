@@ -13,6 +13,35 @@
 
 ---
 
+### 📱 App Showcase
+Explore the premium interface and AI capabilities of the engine.
+
+<table border="0">
+ <tr>
+    <td align="center">
+      <b>Premium Dashboard</b><br/>
+      <img src="screenshots/Screenshot_20260505_012702.png" width="280" alt="Dashboard Screen">
+    </td>
+    <td align="center">
+      <b>AI Insights</b><br/>
+      <img src="screenshots/Screenshot_20260505_012637.png" width="280" alt="AI Feature">
+    </td>
+    <td align="center">
+      <b>Smart Browsing</b><br/>
+      <img src="screenshots/Screenshot_20260505_013309.png" width="280" alt="WebView Interface">
+    </td>
+ </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="screenshots/Screenshot_20260505_013637.jpg" width="45%" />
+  <img src="screenshots/Screenshot_20260505_013711.jpg" width="45%" />
+</p>
+
+---
+
 ### ✨ Key Features
 - **🤖 Smart AI Integration:** Built-in Gemini AI for real-time web content analysis.
 - **💎 Glassmorphism UI:** Modern, sleek, and premium user interface.
@@ -47,7 +76,9 @@ Interested in buying this template or a custom build? Let's connect:
 - **LinkedIn:** [Tap Technologies Official](https://www.linkedin.com/company/tap1technologies)
 - **Play Store:** [Official Portfolio](https://bit.ly/tapTechnologies)
 - **Email:** [tanishkatechnosolutions@gmail.com](mailto:tanishkatechnosolutions@gmail.com)
+
 ---
+
 <p align="center">
   *"Building the future of mobile solutions, one tap at a time."* <br>
   <b>© 2026 Tap Technologies</b>
