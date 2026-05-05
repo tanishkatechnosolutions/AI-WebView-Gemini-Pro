@@ -24,7 +24,7 @@ Explore the premium interface and AI capabilities of the engine.
     </td>
     <td align="center">
       <b>AI Insights</b><br/>
-      <img src="screenshots/Screenshot_20260505_012637.png" width="280" alt="AI Feature">
+      <img src="screenshots/Screenshot_20260505_013637.png" width="280" alt="AI Feature">
     </td>
     <td align="center">
       <b>Smart Browsing</b><br/>
@@ -36,8 +36,8 @@ Explore the premium interface and AI capabilities of the engine.
 <br/>
 
 <p align="center">
-  <img src="screenshots/Screenshot_20260505_013637.jpg" width="45%" />
-  <img src="screenshots/Screenshot_20260505_013711.jpg" width="45%" />
+  <img src="screenshots/Screenshot_20260505_013637.png" width="45%" />
+  <img src="screenshots/Screenshot_20260505_013711.png" width="45%" />
 </p>
 
 ---
