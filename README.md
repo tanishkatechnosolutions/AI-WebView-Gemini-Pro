@@ -36,7 +36,7 @@ Explore the premium interface and AI capabilities of the engine.
 <br/>
 
 <p align="center">
-  <img src="screenshots/Screenshot_20260505_013637.png" width="45%" />
+  <img src="screenshots/Screenshot_20260505_012746.png" width="45%" />
   <img src="screenshots/Screenshot_20260505_013711.png" width="45%" />
 </p>
 
